@@ -55,7 +55,6 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
 |Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
 |---|-----------|--------------|---------------|----------|
 |P-LAN|29|192.168.1.0/24|254|192.168.1.1|
-|P-R&D|12|192.168.2.0/27|30|192.168.2.1|
 |P-WifiPublic|?|192.168.3.0/24|254|192.168.3.1|
 |P-DMZ|4|192.168.4.0/28|14|192.168.4.1|
 
