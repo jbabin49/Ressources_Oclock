@@ -54,9 +54,10 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
   
 |Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
 |---|-----------|--------------|---------------|----------|
-|P-LAN|41|192.168.1.0/24|254|192.168.1.1|
-|P-WifiPublic|?|192.168.2.0/24|254|192.168.2.1|
-|P-Serveurs|4|192.168.3.0/28|14|192.168.3.1|
+|P-LAN|29|192.168.1.0/24|254|192.168.1.1|
+|P-R&D|12|192.168.2.0/27|30|192.168.2.1|
+|P-WifiPublic|?|192.168.3.0/24|254|192.168.3.1|
+|P-DMZ|4|192.168.4.0/28|14|192.168.4.1|
 
 </center>
 
@@ -97,9 +98,9 @@ Voici la liste du matériel réseau à votre disposition :
   * 4x Cisco 3650-24PS (2 pour le LAN de Paris, un pour la DMZ, un pour le LAN de Lille)
   * 1x Cisco 2960-24TT (Pour le VPN)
 
-* Modules et cartes d'extension pour switchs et points d'accès :
+* Modules et cartes d'extension pour switchs :
   * 4x alimentations AC-POWER-SUPPLY (une par switch 3650-24PS)
-  * 5x modules SFP GLC-LH-SMD
+  * 4x modules SFP GLC-LH-SMD
 
 * Autres équipements :
   * 4x Serveurs
