@@ -77,7 +77,7 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
   
 |Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
 |---|-----------|--------------|---------------|----------|
-|VPN|59|172.16.0.0/24|254|172.16.0.1|
+|VPN|59|172.16.1.0/24|254|172.16.1.1|
 
 </center>
 
@@ -117,7 +117,7 @@ Voici la liste du matériel réseau à votre disposition :
   * 3x Copieurs (2 pour Paris dont un pour le batiment R&D, un pour Lille)
   * 2x Points d'accès WiFi AP-PT (1 pour le wifi de Paris et 1 pour le WiFi de Lille)
 
-<img width="1714" height="688" alt="cablage" src="https://github.com/user-attachments/assets/ea1302de-b105-4853-a815-1fe2f4d2a24f" />
+<img width="1690" height="675" alt="cablage" src="https://github.com/user-attachments/assets/3ce15aad-14ea-4f46-b9e5-563e9b88eed6" />
 
 ### Étape 3 - Configuration des switchs
 
