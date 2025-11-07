@@ -85,10 +85,10 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
 
 <center>
 
-|Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
-|---|-----------|--------------|---------------|----------|
-|Paris-Lille|2|192.168.4.0/29|6|192.168.4.1|
-|Paris-VPN|2|192.168.5.0/29|6|192.168.5.1|
+|Nom|Équipements|Adresse réseau|Adresses dispos|
+|---|-----------|--------------|---------------|
+|Paris-Lille|2|92.12.44.0/24|254|
+|Paris-VPN|2|92.56.78.0/24|254|
 
 </center>
 
@@ -117,11 +117,13 @@ Voici la liste du matériel réseau à votre disposition :
   * 3x Copieurs (2 pour Paris dont un pour le batiment R&D, un pour Lille)
   * 2x Points d'accès WiFi AP-PT (1 pour le wifi de Paris et 1 pour le WiFi de Lille)
 
-<img width="1690" height="675" alt="cablage" src="https://github.com/user-attachments/assets/3ce15aad-14ea-4f46-b9e5-563e9b88eed6" />
+<img width="2004" height="819" alt="pt" src="https://github.com/user-attachments/assets/1c2249ed-fc18-4800-89c4-26189b02c8c4" />
 
 ### Étape 3 - Configuration des switchs
 
 <img width="524" height="322" alt="switch_config" src="https://github.com/user-attachments/assets/70a7b6f9-9274-4a21-b01a-a31be912b252" />
 
 <img width="395" height="229" alt="ping_switch" src="https://github.com/user-attachments/assets/f4421f1c-b619-456d-8f19-a118653b7ddd" />
+
+
 
