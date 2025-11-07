@@ -84,13 +84,15 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
 * Liens entre routeurs
 
 <center>
- 
+
+|Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
+|---|-----------|--------------|---------------|----------|
 |Paris-Lille|2|192.168.4.0/29|6|192.168.4.1|
 |Paris-VPN|2|192.168.5.0/29|6|192.168.5.1|
 
 </center>
 
-### Étape 2 - Câblage
+### Étape 2 - Câblage + Bonus
 
 Voici la liste du matériel réseau à votre disposition :
 
@@ -115,12 +117,20 @@ Voici la liste du matériel réseau à votre disposition :
   * 3x Copieurs (2 pour Paris dont un pour le batiment R&D, un pour Lille)
   * 2x Points d'accès WiFi AP-PT (1 pour le wifi de Paris et 1 pour le WiFi de Lille)
 
-<img width="1545" height="679" alt="Cablage" src="https://github.com/user-attachments/assets/9c51803e-9234-4073-a0a2-fad7b56f235c" />
+<img width="1714" height="688" alt="cablage" src="https://github.com/user-attachments/assets/ea1302de-b105-4853-a815-1fe2f4d2a24f" />
 
 ### Étape 3 - Configuration des switchs
 
+<img width="524" height="322" alt="switch_config" src="https://github.com/user-attachments/assets/70a7b6f9-9274-4a21-b01a-a31be912b252" />
 
-
-
+<img width="395" height="229" alt="ping_switch" src="https://github.com/user-attachments/assets/f4421f1c-b619-456d-8f19-a118653b7ddd" />
 
 ### Étape 4 - Configuration initiale des routeurs
+
+
+
+### Étape 5 - Routes statiques
+
+
+
+### Étape 6 - DHCP
