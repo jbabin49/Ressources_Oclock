@@ -55,8 +55,8 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
 |Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
 |---|-----------|--------------|---------------|----------|
 |P-LAN|29|192.168.1.0/24|254|192.168.1.1|
-|P-WifiPublic|?|192.168.3.0/24|254|192.168.3.1|
-|P-DMZ|4|192.168.4.0/28|14|192.168.4.1|
+|P-WifiPublic|?|192.168.2.0/24|254|192.168.2.1|
+|P-DMZ|4|192.168.3.0/28|14|192.168.3.1|
 
 </center>
 
@@ -66,8 +66,8 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
   
 |Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
 |---|-----------|--------------|---------------|----------|
-|L-LAN|18|10.0.0.0/24|254|10.0.0.1|
-|L-WifiPublic|?|10.0.1.0/24|254|10.0.1.1|
+|L-LAN|18|10.1.1.0/24|254|10.1.1.1|
+|L-WifiPublic|?|10.1.2.0/24|254|10.1.2.1|
 
 </center>
 
@@ -78,6 +78,15 @@ Je prends large sur les LAN pour prévenir l'expansion de l'entreprise.
 |Nom|Équipements|Adresse réseau|Adresses dispos|Passerelle|
 |---|-----------|--------------|---------------|----------|
 |VPN|59|172.16.0.0/24|254|172.16.0.1|
+
+</center>
+
+* Liens entre routeurs
+
+<center>
+ 
+|Paris-Lille|2|192.168.4.0/29|6|192.168.4.1|
+|Paris-VPN|2|192.168.5.0/29|6|192.168.5.1|
 
 </center>
 
@@ -108,3 +117,10 @@ Voici la liste du matériel réseau à votre disposition :
 
 <img width="1545" height="679" alt="Cablage" src="https://github.com/user-attachments/assets/9c51803e-9234-4073-a0a2-fad7b56f235c" />
 
+### Étape 3 - Configuration des switchs
+
+
+
+
+
+### Étape 4 - Configuration initiale des routeurs
