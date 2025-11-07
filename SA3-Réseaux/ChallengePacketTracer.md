@@ -125,12 +125,3 @@ Voici la liste du matériel réseau à votre disposition :
 
 <img width="395" height="229" alt="ping_switch" src="https://github.com/user-attachments/assets/f4421f1c-b619-456d-8f19-a118653b7ddd" />
 
-### Étape 4 - Configuration initiale des routeurs
-
-
-
-### Étape 5 - Routes statiques
-
-
-
-### Étape 6 - DHCP
