@@ -106,3 +106,5 @@ Voici la liste du matériel réseau à votre disposition :
   * 3x Copieurs (2 pour Paris dont un pour le batiment R&D, un pour Lille)
   * 2x Points d'accès WiFi AP-PT (1 pour le wifi de Paris et 1 pour le WiFi de Lille)
 
+<img width="1545" height="679" alt="Cablage" src="https://github.com/user-attachments/assets/9c51803e-9234-4073-a0a2-fad7b56f235c" />
+
