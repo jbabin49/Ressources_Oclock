@@ -125,5 +125,36 @@ Voici la liste du matériel réseau à votre disposition :
 
 <img width="395" height="229" alt="ping_switch" src="https://github.com/user-attachments/assets/f4421f1c-b619-456d-8f19-a118653b7ddd" />
 
+- Définition du nom d'hôte : `hostname L-LAN`
+- Définition du mot de passe du mode privilégié : `enable secret rocknroll`
+- Définition de l'adresse sur la vlan1 : `ip address 10.1.1.2 255.255.255.0`
+- On allume la vlan : `no shutdown`
+- Et on oublie pas de sauvegarder les changements : `copy run sta`
 
+### Étape 4 - Configuration initiale des routeurs
 
+<img width="594" height="717" alt="routeur_config" src="https://github.com/user-attachments/assets/f24d7cbc-2813-43d2-95b4-cd9e328807ab" />
+
+- Définition du nom d'hôte : `hostname L-LAN`
+- Définition du mot de passe du mode privilégié : `enable secret rocknroll`
+- Définition de l'adresse sur le port : `ip address 92.12.34.1 255.255.255.0`
+- On allume le port : `no shutdown`
+- Et on oublie pas de sauvegarder les changements : `copy run sta`
+
+### Étape 5 - Routes statiques
+
+<img width="459" height="122" alt="routage_statique" src="https://github.com/user-attachments/assets/5ad536d6-8e36-414f-8c98-6571d5ba0b29" />
+
+- On configure la route statique vers le sous-réseau de l'autre site en passant par son routeur : `ip route 198.168.1.0 255.255.255.0 92.12.34.1`
+
+### Étape 6 - DHCP + Méga bonus
+
+Configuration des pools DHCP sur le serveur
+
+<img width="1022" height="787" alt="DHCP_config" src="https://github.com/user-attachments/assets/c6ff3798-58f0-43ad-b208-646689131b4c" />
+
+Configuration du relay DHCP sur les routeurs
+
+<img width="439" height="330" alt="DHCP_relay" src="https://github.com/user-attachments/assets/4e765da0-a37e-4a50-ac50-629a74ee0fcd" />
+
+- On donne l'ip du serveur DHCP à chaque port du routeur (sauf celui du serveur) : `ip helper-address 192.168.3.3`
