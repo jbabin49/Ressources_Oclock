@@ -117,7 +117,7 @@ Voici la liste du matériel réseau à votre disposition :
   * 3x Copieurs (2 pour Paris dont un pour le batiment R&D, un pour Lille)
   * 2x Points d'accès WiFi AP-PT (1 pour le wifi de Paris et 1 pour le WiFi de Lille)
 
-<img width="2004" height="819" alt="pt" src="https://github.com/user-attachments/assets/1c2249ed-fc18-4800-89c4-26189b02c8c4" />
+<img width="1487" height="617" alt="cablage" src="https://github.com/user-attachments/assets/8128360b-58f7-4f55-98b7-4d0cd4e33a06" />
 
 ### Étape 3 - Configuration des switchs
 
