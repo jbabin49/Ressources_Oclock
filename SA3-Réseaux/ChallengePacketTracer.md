@@ -135,7 +135,7 @@ Voici la liste du matériel réseau à votre disposition :
 
 <img width="594" height="717" alt="routeur_config" src="https://github.com/user-attachments/assets/f24d7cbc-2813-43d2-95b4-cd9e328807ab" />
 
-- Définition du nom d'hôte : `hostname L-LAN`
+- Définition du nom d'hôte : `hostname routeurParis`
 - Définition du mot de passe du mode privilégié : `enable secret rocknroll`
 - Définition de l'adresse sur le port : `ip address 92.12.34.1 255.255.255.0`
 - On allume le port : `no shutdown`
