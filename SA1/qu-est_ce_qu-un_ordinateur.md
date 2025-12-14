@@ -1,6 +1,5 @@
-<h1 align=center>Histoire de l'informatique
+<h1 align=center>C'est quoi un ordinateur ?</h1>
 
-# C'est quoi un ordinateur ?
 Un ordinateur (computer, en anglais) est un **système programmable de traitement de l'information**, qui fonctionne par la lecture séquentielle d'un ensemble d'instructions (programme informatique), qui lui font exécuter des **opérations logiques et arithmétiques**.
 
 La notion d'ordinateur a été formalisée mathématiquement par **Alan Turing en 1931**. Les premières implémentations commençent à émerger dans les années 40, suite notamment aux travaux de **John von Neumann**.
@@ -141,7 +140,7 @@ Les OS pour smartphones :
 
 ### Composants d'un système d'exploitation
 
-#### Noyau
+**Noyau :**
 
 Le noyau (kernel, en anglais) est le composant principal d'un système
 
@@ -155,6 +154,40 @@ d'exploitation. Il offre les fonctionnalités suivantes :
 
 Liste non exhaustive !
 
+**Interfaces :**
+
+Pour exploiter les fonctionnalités du noyau, on peut passer par
+
+différentes interfaces :
+
+* **interface graphique** (**GUI**, _Graphical User Interface_, en anglais)
+* **interface en ligne de commande** (**CLI**, _Command Line Interface_, en anglais)
+* **interface de programmation** (**API**, _Application Programming Interface_, en anglais)
+
+L'interface graphique et l'interface en ligne de commande sont appelées des interfaces homme-machine, souvent abrégé IHM.
+
+Elle permettent à un homme (dans le sens "être humain") d'interagir avec la machine.
+
+<img height="400" alt="composants_os" src="https://github.com/user-attachments/assets/5f390f7b-6e85-4650-beb0-67463ea219b1" />
+
+**Interface graphique :**
+
+Ce sont les différents menus proposés par le système d'exploitation pour le configurer et réaliser des tâches courantes.
+
+Par exemple, pour éteindre votre ordinateur, vous cliquez sur le menu démarrer puis sur le bouton d'extinction.
+
+<img height="300" alt="GUI" src="https://github.com/user-attachments/assets/e073621a-6ba8-4052-91af-304a733a6c83" />
 
 
+**Interface en lignez de commande :**
 
+Moins connues du grand public, les interfaces en ligne de commande permettent aux utilisateurs avancés (nous !) d'interagir avec le système d'exploitation en lançant des commandes, instructions spécifiques, propres au système d'exploitation utilisé.
+
+Par exemple, pour éteindre l'ordinateur, on peut lancer la commande `shutdown`.
+
+<img height="300" alt="CLI" src="https://github.com/user-attachments/assets/4273f846-7c22-4455-9004-f8bd8227ad22" />
+
+
+**Interfaces de programmation**
+
+Les interfaces de programmation ne sont pas directement utilisées par des humains, mais utilisées par des programmes informatiques (codés par des humains !) pour accéder à des fonctionnalités du système d'exploitation.
