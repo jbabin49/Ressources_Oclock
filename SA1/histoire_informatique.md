@@ -21,7 +21,7 @@ Ada Lovelace est une pionnière de l'informatique. D'après Wikipédia :
 > Elle est principalement connue pour avoir réalisé le premier véritable programme informatique, lors de son travail sur un ancêtre de l'ordinateur: 
 la [machine analytique de Charles Babbage](https://fr.wikipedia.org/wiki/Machine_analytique)
 
-<img height="250" alt="ada lovelace" src="https://github.com/user-attachments/assets/8a585ea0-ad3a-43c5-a97a-045ec9c0c063" />
+<img height="250" alt="Ada Lovelace" src="https://github.com/user-attachments/assets/8a585ea0-ad3a-43c5-a97a-045ec9c0c063" />
 
 
 ### [Métier Jacquard](https://fr.wikipedia.org/wiki/M%C3%A9tier_Jacquard)
@@ -32,7 +32,7 @@ D'après Wikipédia :
 
 > Le métier Jacquard est un métier à tisser mis au point par le Lyonnais Joseph Marie Jacquard avec l'aide du menuisier Jean-Antoine Breton en 1801, premier système mécanique programmable avec cartes perforées.
 
-
+<img height="250" alt="Métier µJacquard" src="https://github.com/user-attachments/assets/7500beee-874b-435c-84a8-4ac49695a67c" />
 
 ## Encore avant ?
 
@@ -45,6 +45,8 @@ Le mathématicien a également indirectement contribué à l'informatique modern
 > Son nom latinisé est à l’origine du mot algorithme et le titre de l'un de ses ouvrages (Abrégé du calcul par la restauration et la comparaison) est à l'origine du mot algèbre. 
 Al-Khwârizmî a classifié les algorithmes existants,en particulier selon leurs critères de terminaison, mais ne les a pas inventés.
 
+<img height="250" alt="Al-Khwârizmî" src="https://github.com/user-attachments/assets/8a0a5f2b-e0d5-43f0-9b30-a258835b9581" />
+
 ## Et encore avant ?
 
 ### [Euclide](https://fr.wikipedia.org/wiki/Euclide)
@@ -55,6 +57,8 @@ D'après Wikipédia :
 
 > En mathématiques, l'[algorithme d'Euclide](https://fr.wikipedia.org/wiki/Algorithme_d%27Euclide) est un algorithme qui calcule le plus grand commun diviseur (PGCD) de deux entiers, c'est-à-dire le plus grand entier qui divise les deux entiers, c'est-à-dire qu'ils sont tous les deux multiples de celui-ci. 
 C'est un des plus anciens algorithmes connus, mais il reste toujours d'actualité.
+
+<img height="250" alt="Euclide" src="https://github.com/user-attachments/assets/f3a22fb1-d59f-4c8b-9682-b5e8e4bdcb25" />
 
 ## L'ère moderne
 
@@ -68,6 +72,8 @@ Il est aussi l'un des pionniers de l'intelligence artificielle.
 
 _Durant la Seconde Guerre mondiale, il joue un rôle majeur dans la cryptanalyse de la machine Enigma utilisée par les armées allemandes._
 
+<img height="250" alt="Alan Turing" src="https://github.com/user-attachments/assets/f1155d00-31f6-40ba-a63b-edf27cfe2708" />
+
 ## Machines à calculer
 
 Date : fin des années 1930
@@ -76,6 +82,9 @@ Deux première machines à calculer électro-mécaniques voient le jour :
 
 * l'[IBM/Harvard Mark I](https://fr.wikipedia.org/wiki/Harvard_Mark_I) : créée par Howard Aiken & Thomas J. Watson + IBM entre 1939 et 1943, puis donnée à l'université Harvard en 1944
 * le [Zuse 3](https://fr.wikipedia.org/wiki/Zuse_3) : développée en secret par Konrad Zuse entre 1939 et 1941, détruit pendant la Seconde Guerre mondiale.
+
+<img height="150" alt="Harvad Mark I" src="https://github.com/user-attachments/assets/c582abba-0a94-4155-bd4e-078085619945" />
+<img height="150" alt="Zuse 3 (reproduction)" src="https://github.com/user-attachments/assets/cf657586-2e9f-41be-8695-cd32404a3416" />
 
 ## Premier "ordinateur"
 
@@ -90,4 +99,25 @@ Le premier "ordinateur" ne fait pas consensus : d'un ouvrage à l'autre, 6 machi
 * 1944 : l'Harvard Mark I d'IBM
 * 1946 : l'[ENIAC](https://fr.wikipedia.org/wiki/ENIAC)
 
+## [John von Neumann](https://fr.wikipedia.org/wiki/John_von_Neumann)
+
+Date : 1945
+
+Mathématicien, John von Neumann a travaillé sur la machine EDVAC, et est notamment connu pour son rapport sur cette machine publié en 1945.
+
+Il a donné son nom à l'[architecture de von Neumann](https://fr.wikipedia.org/wiki/Architecture_de_von_Neumann) , utilisée dans la quasi-totalité des ordinateurs modernes.
+
+<img height="250" alt="John von Neumann" src="https://github.com/user-attachments/assets/5d0afa06-e4cd-4600-bc49-a97a5c1b4dcd" />
+
+## [EDVAC](https://fr.wikipedia.org/wiki/Electronic_Discrete_Variable_Automatic_Computer)
+
+Date : 1946 (lancement du projet) - 1951 (mise en service)
+
+L'EDVAC est l'un des tous premiers ordinateurs électroniques. Il opère en binaire, contrairement à l'ENIAC qui opère en décimal.
+
+Il permet de faire des opérations mathématiques (addition, soustraction, multiplication & division), consomme 56kW (56 000 watts), comporte près de 6 000 tubes à vides et 12 000 diodes, pèse 7 tonnes, occupe plus de 45m2 et demande 2 équipes de 30 personnes qui se succèdent pour le faire fonctionner en continu.
+
+<img height="300" alt="EDVAC" src="https://github.com/user-attachments/assets/3fa97def-f64a-4a5b-84a4-0e1759a7d6b6" />
+
+## Premiers ordinateurs commercialisés
 
