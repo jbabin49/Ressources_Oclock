@@ -21,6 +21,9 @@ Ada Lovelace est une pionnière de l'informatique. D'après Wikipédia :
 > Elle est principalement connue pour avoir réalisé le premier véritable programme informatique, lors de son travail sur un ancêtre de l'ordinateur: 
 la [machine analytique de Charles Babbage](https://fr.wikipedia.org/wiki/Machine_analytique)
 
+<img height="250" alt="ada lovelace" src="https://github.com/user-attachments/assets/8a585ea0-ad3a-43c5-a97a-045ec9c0c063" />
+
+
 ### [Métier Jacquard](https://fr.wikipedia.org/wiki/M%C3%A9tier_Jacquard)
 
 Date : 1801
@@ -28,6 +31,8 @@ Date : 1801
 D'après Wikipédia :
 
 > Le métier Jacquard est un métier à tisser mis au point par le Lyonnais Joseph Marie Jacquard avec l'aide du menuisier Jean-Antoine Breton en 1801, premier système mécanique programmable avec cartes perforées.
+
+
 
 ## Encore avant ?
 
