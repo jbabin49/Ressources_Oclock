@@ -93,7 +93,7 @@
 <summary>Ressources</summary>
   
 * [Tableaux Masques de sous-réseaux / Conversion décimal <-> binaire](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Ressources/tableaux_adressage_ip.md)
-* [Livre ITIL V4](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Ressources/ITIL V4 - Foundation - Axelos.pdf)
+* [Livre ITIL V4](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Ressources/ITIL_V4_Foundation_Axelos.pdf)
 * [Mémo droits Linux](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Images/memo_droits_linux.png)
 <!--
 * [](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/)
