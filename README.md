@@ -95,6 +95,11 @@
 * [Tableaux Masques de sous-réseaux / Conversion décimal <-> binaire](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Ressources/tableaux_adressage_ip.md)
 * [Livre ITIL V4](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Ressources/ITIL_V4_Foundation_Axelos.pdf)
 * [Mémo droits Linux](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/Images/memo_droits_linux.png)
+* [Utiliser grep](https://gist.github.com/stephdl/6a292a6a57f72aa76e66db8b5955fb41)
+* [Utiliser find](https://gist.github.com/stephdl/32d2fa44972b8fe9dc8ab59336b3cc80)
+* [Installer CrowdSec](https://gist.github.com/stephdl/141284093b54151ad388e94dea7c31c4)
+* [Créer une clé ssh et l'uploader sur un serveur](https://gist.github.com/stephdl/7040fcea823c2293c8b354f0b1628955)
+* [Faire du débogage réseau](https://gist.github.com/stephdl/a6eceb723a1402b45105818112547da4)
 <!--
 * [](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/)
 * [](https://github.com/jbabin49/Ressources_Oclock/blob/HEAD/)
